@@ -1,5 +1,5 @@
 {
-  "name": "@bigcommerce/stencil-cli",
+  "name": "@RATIU5/stencil-cli",
   "version": "7.5.4",
   "description": "CLI tool to run BigCommerce Stores locally for theme development.",
   "main": "index.js",
